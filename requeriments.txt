@@ -1,0 +1,5 @@
+fastapi==0.65.1
+pydantic
+# local development & testing
+pytest==6.2.1
+uvicorn==0.14.0
